@@ -11,7 +11,7 @@ For writing a digital value we used **digitalWrite (port_number, LOW or HIGH)**.
   
 ## Board Image
 ![Board1](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex2/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.27.55.png)
-![Board2](Arduino_LED.gif?raw=true)
+![Board2](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex2/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.27.36.png)
 
 
 ## Issues
