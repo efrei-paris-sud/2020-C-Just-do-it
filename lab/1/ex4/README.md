@@ -1,8 +1,12 @@
 
 
 
-# Exercise 2 
-A breif description of the goal of this exercise.
+# Exercise 4 ( Lesson 4 )  
+
+In this lesson, we used **a variable resistor** and we read its value using one analog input of an Arduino board and we change the blink rate of the built-in LED accordingly. 
+To read the **analog signal** we used **value=analogRead(A0).** 
+The value is something between 0 and 1024. 
+
 
 ## Schematic 
 ![Test Image](photo.png?raw=true)
