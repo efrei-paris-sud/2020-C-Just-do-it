@@ -1,7 +1,12 @@
 
 
-# Exercise 2 
-A breif description of the goal of this exercise.
+# Exercise 3 ( Lesson 6 ) 
+
+In this exercise, we used **push buttons** to connect two points in a circuit . 
+We used : pinMode(buttonPin, INPUT); in setup.
+To read the digital signal you can use buttonState = digitalRead(buttonPin); 
+And finally we used a if :  if (buttonState == HIGH){....}else{....}.
+
 
 ## Schematic 
 ![Test Image](photo.png?raw=true)
@@ -20,8 +25,6 @@ void loop(){
 ## Board Image
 ![Board](Arduino_LED.gif?raw=true)
 
-To make a gif you can use [ezgif](https://ezgif.com/maker).
+
 ## Issues
-- bla bla
-- bla bla
-- bla bla
+So when we press the button, the built-in LED will light up, release is extinguished.
