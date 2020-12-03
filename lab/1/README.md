@@ -16,6 +16,8 @@ In this lab we learned:
 **- Extra: Relay**
 **- Extra: Fritzing**
   
+The goal is to learn how to use arduino software, know how to use the available materials and understand how to create circuits with different elements.
+
 ## Exercises
   - [Exercise 1](ex1)
   - [Exercise 2](ex2)
@@ -25,10 +27,5 @@ In this lab we learned:
   - [Exercise 6](ex6)
   - [Exercise 7](ex7)
   
-## Issues
-  We encountered some issues as ....
-  1. ...
-  2. ...
-  3. ...
-  
+
   
