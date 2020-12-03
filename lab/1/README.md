@@ -4,17 +4,17 @@ The Lab was about learning how to work with sensors and actuators.
 
 In this lab we learned:
 
-**- Micro-Contoller
-**- Digital Signal and how to Read/Write in a Micro Controller
-**- Digital Signal and how to Read/Write in a Micro Controller
-**- Digital Signal and how to Read/Write in a Micro Controller
-**- Analog Signal and how to Read/Write in a Micro Controller
-**- PWM
-**- LED
-**- Arduino
-**- Arduino IDE
-- Extra: Relay
-- Extra: Fritzing
+**- Micro-Contoller**
+**- Digital Signal and how to Read/Write in a Micro Controller**
+**- Digital Signal and how to Read/Write in a Micro Controller**
+**- Digital Signal and how to Read/Write in a Micro Controller**
+**- Analog Signal and how to Read/Write in a Micro Controller**
+**- PWM**
+**- LED**
+**- Arduino**
+**- Arduino IDE**
+**- Extra: Relay**
+**- Extra: Fritzing**
   
 ## Exercises
   - [Exercise 1](ex1)
