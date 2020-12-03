@@ -8,8 +8,13 @@ Members: Marie GUMB and Marie-Léonie SERIZOT
 ![Luminous](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/Capture%20d%E2%80%99e%CC%81cran%202020-12-03%20a%CC%80%2012.12.34.png)
 
 
-# Project Title: bla bla
- **Description**: bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+# Project Title: Luminus
+
+**Who has never let a plant die because he forgot to water it?**
+
+The Luminus project consists to create a program that allows the music to react according to the music.Then, it can let the user choose and create light programs (like color gradients) on a user interface. And finnaly, we want to add a feature to track the moisture quality of a plant.
+
+So, now you can have a bright musical atmosphere, but also a reminder to water your plants
  
 [Click here for more information about the project](project) 
 
