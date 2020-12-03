@@ -8,24 +8,12 @@ We have learned how to program with arduino using the **setup()function** which 
 Then, the **loop()** function loops consecutively, allowing your program to change and respond. 
 For writing a digital value we used **digitalWrite (port_number, LOW or HIGH)**. And we have setup the port_number as OUTPUT by using **pinMode(port_number, OUTPUT);** in the setup function.
 
-
-## Schematic 
-![Test Image](photo.png?raw=true)
-
-## Code
- ```Arduino
-void setup(){
-  ....
-}
-
-void loop(){
-  ....
-}
-```
   
 ## Board Image
-![Board](Arduino_LED.gif?raw=true)
+![Board1](Arduino_LED.gif?raw=true)
+![Board2](Arduino_LED.gif?raw=true)
 
-To make a gif you can use [ezgif](https://ezgif.com/maker).
+
 ## Issues
 
+We can turn on and off a LED.
