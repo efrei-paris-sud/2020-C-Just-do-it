@@ -20,7 +20,7 @@ void loop(){
 ```
   
 ## Board Image
-![Tests Image](Capture d’écran 2020-12-02 à 09.27.55.png?raw=true)
+![Board](Arduino_LED.gif?raw=true)
 
 To make a gif you can use [ezgif](https://ezgif.com/maker).
 ## Issues
