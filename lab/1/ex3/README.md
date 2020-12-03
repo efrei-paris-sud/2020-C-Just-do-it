@@ -12,15 +12,12 @@ And finally we used a if :  if (buttonState == HIGH){....}else{....}.
 ![Test Image](photo.png?raw=true)
 
 ## Code
- ```Arduino
-void setup(){
-  ....
-}
 
-void loop(){
-  ....
-}
-```
+In comment, you can see our program, sorry we forgot to screen the code after comments it.
+
+
+![Test Image](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex3/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.46.51.png)
+
   
 ## Board Image
 ![Board](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex3/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.40.11.png)
