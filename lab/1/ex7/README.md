@@ -16,7 +16,7 @@ We repared a program to have different colors (at least 5) with a delay of 1000 
 ## Board Image
 
 ![Boardread](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex7/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.55.15.png)
-![Board1](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex7/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.55.15.png)
+![Boardbleue](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex7/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.55.34.png)
 ![Board2](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex7/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.55.15.png)
 ![Board3](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex7/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.55.15.png)
 
