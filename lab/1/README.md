@@ -1,4 +1,7 @@
 
+https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/th.jpg
+
+
 # Lab 1
 The Lab was about learning how to work with sensors and actuators.
 
