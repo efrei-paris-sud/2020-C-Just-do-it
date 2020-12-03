@@ -2,7 +2,7 @@
 Members: Marie GUMB and Marie
 |![Marie-Léonie SERIZOT](assets/member1.webp?raw=true) |![Marie GUMB](assets/member2.webp?raw=true)  |
 |--|--|
-|  [Marie-Léonie SERIZOT](https://github.com/username) <br> a short description of her responsiblity ...| [Marie GUMB](https://github.com/username) <br> a short description of his responsiblity ... |
+|  [Marie-Léonie SERIZOT](https://github.com/ML4556) <br> a short description of her responsiblity ...| [Marie GUMB](https://github.com/username) <br> a short description of his responsiblity ... |
 
 
 
