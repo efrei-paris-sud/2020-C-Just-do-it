@@ -2,7 +2,7 @@
 
 # Exercise 1 
 
-In this exercise, we need to test your LED by connecting the orange wire to the red bus (VCC).
+In this exercise, we need to **test your LED** by connecting the orange wire to the red bus (VCC).
 You can see our circuit in this photo.
 
 ## Schematic 
