@@ -12,7 +12,7 @@ Members: Marie GUMB and Marie-Léonie SERIZOT
 
 **Who has never let a plant die because he forgot to water it?**
 
-The Luminus project consists to create a program that allows the music to react according to the music.Then, it can let the user choose and create light programs (like color gradients) on a user interface. And finnaly, we want to add a feature to track the moisture quality of a plant.
+The Luminus project consists to create a program that allows the leds to react according to the music.Then, it can let the user choose and create light programs (like color gradients) on a user interface. And finnaly, we want to add a feature to track the moisture quality of a plant.
 
 So, now you can have a bright musical atmosphere, but also a reminder to water your plants
  
