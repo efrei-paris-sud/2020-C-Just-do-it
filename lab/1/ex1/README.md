@@ -5,8 +5,8 @@
 In this exercise, we need to test your LED by connecting the orange wire to the red bus (VCC).
 You can see our circuit in this photo.
 
-//## Schematic 
-//![Test Image](photo.png?raw=true)
+## Schematic 
+![Test Image](photo.png?raw=true)
 
 ## Code
  ```Arduino
