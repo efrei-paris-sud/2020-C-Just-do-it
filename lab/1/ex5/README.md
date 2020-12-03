@@ -1,8 +1,11 @@
 
 
 
-# Exercise 2 
-A breif description of the goal of this exercise.
+# Exercise 5 ( Lesson 5 ) 
+
+In this exercise, we used analogWrite(pin, value).
+We have An LED connected to digital output pin 5 (D5) through a 220 ohm resistor.
+
 
 ## Schematic 
 ![Test Image](photo.png?raw=true)
