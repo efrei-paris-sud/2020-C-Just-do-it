@@ -1,7 +1,9 @@
 
 
 # Exercise 1 
-A breif description of the goal of this exercise.
+
+In this exercise, we need to test your LED by connecting the orange wire to the red bus (VCC).
+You can see our circuit in this photo.
 
 ## Schematic 
 ![Test Image](photo.png?raw=true)
