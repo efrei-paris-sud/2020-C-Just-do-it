@@ -1,10 +1,10 @@
 
 
 # Exercise 1 
-A breif description of the goal of this exercise.
+In this exercice we have to develop an arduino program which can read a byte from serial and adjust the passive buzzer frequency with that.
+
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
 
 ## Code
  ```Arduino
