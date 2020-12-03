@@ -9,7 +9,7 @@ The value is something between 0 and 1024.
 
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
+![Test Image00](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex4/Capture%20d%E2%80%99e%CC%81cran%202020-12-03%20a%CC%80%2011.22.33.png)
 
 ## Code
 ![Test Image0](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex4/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.46.51.png)
