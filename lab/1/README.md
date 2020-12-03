@@ -1,5 +1,5 @@
 
-https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/th.jpg
+![Schema](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/th.jpg)
 
 
 # Lab 1
