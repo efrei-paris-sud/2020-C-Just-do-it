@@ -1,7 +1,11 @@
 
 # Lab 2
-The Lab was about .... 
+In this lab, we have learn different protocol (I2C, UART ...) and reading from BMP280 snesor. 
+
+We have use a lot of same divices that the lab one. 
   
+  
+
 ## Exercises
   - [Exercise 1](ex1)
   - [Exercise 2](ex2)
