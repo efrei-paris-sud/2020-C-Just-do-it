@@ -6,7 +6,7 @@ In this exercise, we need to test your LED by connecting the orange wire to the 
 You can see our circuit in this photo.
 
 ## Schematic 
-![Test Image](photo.png?raw=true)
+![Test Image](Capture d’écran 2020-12-02 à 09.27.55.png?raw=true)
 
 ## Code
  ```Arduino
