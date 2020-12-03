@@ -5,7 +5,7 @@ Members: Marie GUMB and Marie-Léonie SERIZOT
 |  [Marie-Léonie SERIZOT](https://github.com/ML4556) <br> We are a team, so we do exactly the same things and have the same responsibility <3 | [Marie GUMB](https://github.com/username) <br> We are a team, so we do exactly the same things and have the same responsibility :)|
 
 
-[Luminus](https://iconscout.com/icons/avatar)
+[Luminus](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/Capture%20d%E2%80%99e%CC%81cran%202020-12-03%20a%CC%80%2012.12.34.png)
 
 
 # Project Title: bla bla
