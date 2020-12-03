@@ -13,8 +13,8 @@ In this lab we learned:
 **- LED
 **- Arduino
 **- Arduino IDE
-**- Extra: Relay
-**- Extra: Fritzing
+- Extra: Relay
+- Extra: Fritzing
   
 ## Exercises
   - [Exercise 1](ex1)
