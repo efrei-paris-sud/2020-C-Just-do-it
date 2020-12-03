@@ -20,10 +20,8 @@ void loop(){
 ```
   
 ## Board Image
-![Board](Arduino_LED.gif?raw=true)
+![Test Image](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex1/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.27.55.png)
 
-To make a gif you can use [ezgif](https://ezgif.com/maker).
+
 ## Issues
-- bla bla
-- bla bla
-- bla bla
+
