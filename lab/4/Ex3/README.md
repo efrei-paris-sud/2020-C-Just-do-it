@@ -21,3 +21,4 @@ In this exercice we built a circuit of Step 6 in Lab1 where we used a variable r
 
 ## Issues
 
+We tried to use our wifi of IPHONE XR but it was to powerfull, so we use a wifi of an other smartphone.
