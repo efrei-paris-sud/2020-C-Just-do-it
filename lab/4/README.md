@@ -11,7 +11,6 @@ Step 2: Find You ESP32 chipset so we looked at our board and Find a gold chipset
   - [Exercise 2](Ex2)
   - [Exercise 3](Ex3)
   
-## Issues
-  We encountered some issues as ....
+
 
   
