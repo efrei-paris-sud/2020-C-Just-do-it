@@ -30,4 +30,4 @@ In this step, we connecte the Oled Display using our last schematic of the lab 2
 
   
 
-![Schema](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/3/Capture%20d%E2%80%99e%CC%81cran%202020-12-08%20a%CC%80%2023.33.16.png)
+![Schema](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/3/Capture%20d%E2%80%99e%CC%81cran%202020-12-08%20a%CC%80%2023.33.16.png){width=40px height=400px}
