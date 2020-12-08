@@ -13,3 +13,5 @@ Display your team name on the Oled with big font and add a random logo
 ![Board](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/3/Ex3/129706837_187020163077098_6105791806881338683_n.png)
 ## Issues
 
+- Position of the image and the text
+
