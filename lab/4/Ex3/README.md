@@ -18,6 +18,9 @@ In this exercice we built a circuit of Step 6 in Lab1 where we used a variable r
 ## Board Image
 ![Board]()
 
+## What we used
+![Board](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/3/Ex3/129706837_187020163077098_6105791806881338683_n.png)
+![Board](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/3/Ex3/129852005_1578111675705680_2512177698148954949_n.png)
 
 ## Issues
 
