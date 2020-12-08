@@ -29,7 +29,7 @@ void loop() {
 
 ```
 ## Board Image
-![Board]()
+![Board](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/4/Ex1/129411623_133665651685408_4786929376080953025_n.jpg)
 
 
 ## Issues
