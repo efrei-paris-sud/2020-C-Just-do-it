@@ -1,5 +1,5 @@
 
-<div style="text-align:center"> # Lab 3 <div/>
+# Lab 3 
 
 The Lab was about how to use I2C LCD with using will use Oled library.
 In this lab we learned:
