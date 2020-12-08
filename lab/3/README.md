@@ -3,10 +3,10 @@
 The Lab was about how to use I2C LCD with using will use Oled library.
 In this lab we learned:
 
-STEP 1: Importing Library:
+**STEP 1:** Importing Library:
 In this step, we just followed the instructions.
 
-STEP 2 :
+**STEP 2** :
 In this step, we connecte the Oled Display using our last schematic of the lab 2 ( Arduino and OLED ).
 
 **STEP 3 :FIND I2C devices.**
