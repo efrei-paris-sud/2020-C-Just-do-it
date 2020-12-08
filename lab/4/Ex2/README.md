@@ -5,6 +5,13 @@ With the code of Ex.3 there. we built the circut with the ESPR32
 ![Test Image00](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/4/Ex2/130113720_294787845286284_5799153758127593863_n.png)
 
 
+![Board]()
+
+## Issues
+
+
+
+
 ## Code
  ```Arduino
 #include <Wire.h>
@@ -114,15 +121,6 @@ void loop() {
 ```
 
 
-## Schematic 
 
-![Test Image00]()
-
-
-
-
-![Board]()
-
-## Issues
 
 
