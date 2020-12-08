@@ -6,13 +6,8 @@ In this exercice we dowload JFX
 #Circuit of the step 6 lab 1
 ![Test Image00](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/3/Ex1/130466709_1638312706329507_6945417081645997031_n.png)
 
-## Code
- ```Arduino
-
-
-```
 ## Board Image
-![Board]()
+![Board](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/3/Ex1/129815331_382252946529706_680879342265340451_n.jpg)
 
 
 ## Issues
