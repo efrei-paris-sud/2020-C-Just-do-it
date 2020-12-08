@@ -6,9 +6,11 @@
 
 
 ## Schematic 
-![Test Image00](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex4/Capture%20d%E2%80%99e%CC%81cran%202020-12-03%20a%CC%80%2011.22.33.png)
+![Test Image00]()
 
 ## Code
+ ```Arduino
+
 const int led = 21;
  
 // the setup routine runs once when you press reset:
@@ -24,10 +26,11 @@ void loop() {
   digitalWrite(led, LOW);       // turn the LED off by making the voltage LOW
   delay(1000);                  // wait for a second
 }
+
+```
 ## Board Image
-![Board](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex4/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.38.41.png)
+![Board]()
 
 
 ## Issues
 
-![Test Image2](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/1/ex4/Capture%20d%E2%80%99e%CC%81cran%202020-12-02%20a%CC%80%2009.38.46.png)
