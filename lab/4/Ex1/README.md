@@ -6,7 +6,7 @@
 
 
 ## Schematic 
-![Test Image00]()
+![Test Image00](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/lab/4/Ex1/130532617_145776116946750_3652552744816391959_n.png)
 
 ## Code
  ```Arduino
