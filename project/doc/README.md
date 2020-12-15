@@ -1,3 +1,9 @@
 # Project Description
 
-You can use either `README.MD` file to present your project or you can upload the pdf version but it should be linked in the readme file.
+
+*First Step :
+
+During this project session we had a problem with the leds we had purchased. Indeed, they no longer worked, and our sound sensor and our intensity sensor have not yet been delivered.
+So, we decided to start our project with the most difficult part, i.e. successfully connecting our ESP32 to a web.
+
+
