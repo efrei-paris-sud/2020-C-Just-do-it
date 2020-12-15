@@ -1,16 +1,13 @@
 
-# Project Title:
-Please use a gif format for the cover photo like this: (you can create gif using https://ezgif.com/maker)
-![Cover GIF](doc/Arduino_LED.gif?raw=true)
+# LUMINUS:
 
-**Description:**  Please don't forget to describe all parts of your project including 
+
+**Description:**  
  - [x] **reading from sensors** 
  - [x] **processing raw data**
  - [x] **Information Transmission**
  - [x] **IoT Platform**
  - [x] **Doing an action**
-
-bla bla bla bla bla bla bla bla blabla bla blabla bla blabla bla bla  bla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla blabla bla bla
 
 [Team Report](doc/report.pdf) 
 
