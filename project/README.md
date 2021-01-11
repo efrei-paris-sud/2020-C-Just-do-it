@@ -32,3 +32,25 @@ https://www.youtube.com/watch?v=a7ppmsQK1MU
 <img src="https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/project/136435459_711184832869076_6337781419149304938_n.jpg" width="190" height="190" />
 
 
+# Code overView
+
+1/ Arduino
+
+ESP32 is connected to 3 different components: a sound sensor, an OLED display and a 60 neopixel lightStrip.
+The main goal of the Arduino's code is to fetch the database to retrieve the data representing the state of the device (identified by the Arduino's mac address in the database).
+
+After fetching the data the Arduino will execute different methods based on the device "mode" (simple color, sound, gradient, or animated gradient), it will set the right color on the light strip, analyze the sound if the sound mode is on, and display the current mode information on the OLED screen.
+
+2/ Front
+
+The web application is developed with VueJS and TailwindCSS. Its goal is to give the user an interface to control the led with.
+By selecting mode or color, the app will use the database REST API to write in the database in the right device noSQL document.
+
+
+3/ Database
+
+The database used is the Firebase RealTime database. It allows the device to connect to it and to "listen" the different changes made to it (in our case by the front application), unfortunately, the Arduino code language is not compatible with these changes watch and we had to use the REST API to make calls every X sec.
+This could be improved by using a device with Python or JS code in it, it would improve the reactivity of the device a lot.
+
+
+
