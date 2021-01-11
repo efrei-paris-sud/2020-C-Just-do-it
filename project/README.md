@@ -6,13 +6,11 @@
 
 When you turn on the light at home, it is pleasant to choose the color according to the atmosphere in which a user is. We have all lost a remote in our life, so using a site on your phone to choose the color of your light is the solution. The led strip does not lightly light up in a solid color, we can put gradients on it. Finally, when a user organizes an event at home, he can decide that his light atmosphere (the leds) react to the music he is listening to.
 
-[Team Report](doc/report.pdf) 
 
-[Team Presentation](doc/presentation.pdf)
 
 # Working Video
 
- [![Example Video of the porject](https://img.youtube.com/vi/ucZl6vQ_8Uo/0.jpg)](https://www.youtube.com/watch?v=ucZl6vQ_8Uo)
+ [![Example Video of the porject](https://www.youtube.com/watch?v=a7ppmsQK1MU)
 
 # Components
 - 1 x Arduino Uno
