@@ -10,14 +10,17 @@ When you turn on the light at home, it is pleasant to choose the color according
 
 # Working Video
 
- [![Example Video of the porject](https://www.youtube.com/watch?v=a7ppmsQK1MU)
+
 https://www.youtube.com/watch?v=a7ppmsQK1MU
+
 # Components
-- 1 x Arduino Uno
-- 1 x BMP 280
+- 1 x RGB Led
+- 1 x Wires
+- 1 x Ecran Oled ssd1306
+- 1 x Sound sensor
 - 1 x Breadboard
-- 
-- 
+- 1 x ESP32
+
 # Schematic
 ![schema](doc/photo.png?raw=true)
 
