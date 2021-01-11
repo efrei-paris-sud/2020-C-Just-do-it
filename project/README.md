@@ -3,11 +3,8 @@
 
 
 **Description:**  
- - [x] **reading from sensors** 
- - [x] **processing raw data**
- - [x] **Information Transmission**
- - [x] **IoT Platform**
- - [x] **Doing an action**
+
+When you turn on the light at home, it is pleasant to choose the color according to the atmosphere in which a user is. We have all lost a remote in our life, so using a site on your phone to choose the color of your light is the solution. The led strip does not lightly light up in a solid color, we can put gradients on it. Finally, when a user organizes an event at home, he can decide that his light atmosphere (the leds) react to the music he is listening to.
 
 [Team Report](doc/report.pdf) 
 
