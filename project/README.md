@@ -29,7 +29,7 @@ https://www.youtube.com/watch?v=a7ppmsQK1MU
 
 # Schematic
 
-<img src="https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/project/arduino-schematics.png" width="300" height="300" />
+<img src="https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/project/arduino-schematics.png" width="500" height="500" />
 
 <img src="https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/project/136435459_711184832869076_6337781419149304938_n.jpg" width="250" height="250" />
 
