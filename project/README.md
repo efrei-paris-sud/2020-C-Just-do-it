@@ -24,8 +24,6 @@ https://www.youtube.com/watch?v=a7ppmsQK1MU
 # Schematic
 ![schema](https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/project/136435459_711184832869076_6337781419149304938_n.jpg)
 
-<img src="https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/project/136435459_711184832869076_6337781419149304938_n.jpg" alt="alt text" style="width:5;height:5">
-
 # Overview on the code
 Please provide a high level algorithm of your code. if you need to mention some part of the code you can do it like:
 ```Arduino
