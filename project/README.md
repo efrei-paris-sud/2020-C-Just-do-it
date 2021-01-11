@@ -10,8 +10,8 @@ When you turn on the light at home, it is pleasant to choose the color according
 
 # Working Video
 
- [![Example Video of the porject](https://www.youtube.com/watch?v=a7ppmsQK1MU )
-
+ [![Example Video of the porject](https://www.youtube.com/watch?v=a7ppmsQK1MU)
+https://www.youtube.com/watch?v=a7ppmsQK1MU
 # Components
 - 1 x Arduino Uno
 - 1 x BMP 280
