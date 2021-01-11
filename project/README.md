@@ -32,10 +32,3 @@ https://www.youtube.com/watch?v=a7ppmsQK1MU
 <img src="https://github.com/efrei-paris-sud/2020-C-Just-do-it/blob/main/project/136435459_711184832869076_6337781419149304938_n.jpg" width="150" height="150" />
 
 
-# Overview on the code
-Please provide a high level algorithm of your code. if you need to mention some part of the code you can do it like:
-```Arduino
-	Serial.println('bla bla'); // This line is used to print sth in the serial port
-``` 
-
-
